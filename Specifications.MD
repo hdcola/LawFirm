@@ -88,9 +88,11 @@ https://wireframe.cc/XPxUTU
 
 https://wireframe.cc/TC9uFW
 
-#### Areas of Practice
-
-#### 
 
 ### Mockups
 
+Fei : About Us, Practice Areas
+
+Sean : Index
+
+Danny : Contact Us

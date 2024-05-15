@@ -76,9 +76,20 @@ The client needs a serious and professional looking website to represent their n
 
 ### Wairframe
 
-#### Home
+#### Sean
 
-![Home](wairfram/wairfram-home.png)
+![Home](wairfram/wairfram-sean.png)
+
+#### Danny
+
+![alt text](wairfram/wairfram-danny.png)
+
+
+https://wireframe.cc/TC9uFW
+
+#### Areas of Practice
+
+#### 
 
 ### Mockups
 

@@ -76,5 +76,9 @@ The client needs a serious and professional looking website to represent their n
 
 ### Wairframe
 
+#### Home
+
+![Home](wairfram/wairfram-home.png)
+
 ### Mockups
 

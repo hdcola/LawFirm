@@ -26,16 +26,9 @@ The client needs a serious and professional looking website to represent their n
     - Partner 2 Bio & Photo
     - ...
  - Team
-   - Associates
-     - Associate 1
-     - Associate 2
-     - ...
  - Paralegals
-    - Paralegal 1
-    - Paralegal 2
-    - ...
 - Areas of Practice
-- Success Rate
+- Success Stores
 - Contact Us
   - Address
   - Phone Number
@@ -60,7 +53,7 @@ The client needs a serious and professional looking website to represent their n
 - List of different areas of law the firm practices
 - Brief description of each practice area
 
-#### Success Rate
+#### Success Stores (Testimonials)
 
 - Statistical data showcasing the firm's success rate in cases
 - Testimonials from satisfied clients (if available)
@@ -78,7 +71,15 @@ The client needs a serious and professional looking website to represent their n
 
 #### Sean
 
+##### version 1
+
 ![Home](wairfram/wairfram-sean.png)
+
+##### version 2
+
+![Home](wairfram/wairfram-sean2.png)
+
+https://wireframe.cc/XPxUTU
 
 #### Danny
 

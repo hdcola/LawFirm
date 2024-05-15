@@ -71,3 +71,10 @@ The client needs a serious and professional looking website to represent their n
 - Firm's address and phone number
 - Contact form for direct inquiries
 - Map showing the location of the firm's office
+
+## Design
+
+### Wairframe
+
+### Mockups
+

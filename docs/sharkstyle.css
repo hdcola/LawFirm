@@ -16,6 +16,14 @@ p {
   font-family: "Maven Pro", sans-serif;
 }
 
+.bgaccent {
+  background-color: #7ed321;
+}
+
+.accent-color {
+  color: #7ed321;
+}
+
 body::before {
   display: block;
   content: "";

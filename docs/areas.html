@@ -26,8 +26,26 @@
     <!-- Header -->
     <nav class="navbar navbar-expand-md pt-2 fixed-top bg-white border-bottom">
       <div class="container custom-navbar">
-        <a href="index.html" class="navbar-brand">Shark Bite Legal</a>
-
+        <a href="index.html" class="navbar-brand">
+          <img
+            src="bios-and-images/MicrosoftTeams-image.png"
+            alt="Shark Bite Legal logo"
+            height="50"
+            class="d-none d-lg-block"
+          />
+          <img
+            src="bios-and-images/MicrosoftTeams-image_sm.png"
+            alt="Shark Bite Legal logo(smaller version)"
+            height="50"
+            class="d-block d-lg-none"
+          />
+        </a>
+        <!-- show on smaller than large screen -->
+        <div class="d-block d-md-none" id="contact-button">
+          <a class="btn custom-navbar-button" href="ContactUs.html">
+            CONTACT US
+          </a>
+        </div>
         <button
           class="navbar-toggler"
           type="button"
@@ -58,8 +76,10 @@
           </ul>
         </div>
         <!-- hide on smaller than large screen -->
-        <div class="d-none d-lg-block" id="contact-button">
-          <button class="btn custom-navbar-button">CONTACT US</button>
+        <div class="d-none d-md-block" id="contact-button">
+          <a class="btn custom-navbar-button" href="ContactUs.html">
+            CONTACT US
+          </a>
         </div>
       </div>
     </nav>

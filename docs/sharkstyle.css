@@ -128,3 +128,34 @@ footer .custom-footer-area {
 footer .custom-footer-contact p {
   font-weight: bold;
 }
+
+.partner-photos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.partner {
+  flex: 1 1 45%;
+  text-align: center;
+  font-weight: 700;
+}
+
+.partner img {
+  width: 80%;
+  height: auto;
+}
+
+.half-size {
+  font-size: large;
+  font-weight: 700;
+  display: inline-block;
+  width: 48%;
+}
+
+.quarter-size {
+  font-size: medium;
+  font-weight: 400;
+  display: inline-block;
+  width: 23%;
+}

@@ -163,6 +163,12 @@ footer .custom-footer-contact p {
   font-weight: 400;
   display: inline-block;
   width: 23%;
+  text-align: center;
+}
+
+.quarter-size img {
+  width: 40%;
+  height: auto;
 }
 
 .custom-pratice-area-img

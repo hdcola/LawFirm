@@ -78,7 +78,7 @@ nav .nav-item:hover a {
 }
 
 nav .custom-navbar-button {
-  background-image: linear-gradient(to right, #7ed321, #325c06);
+  background-color: #7ed321;
   color: white;
   border: none;
   border-radius: 10px;
@@ -88,7 +88,7 @@ nav .custom-navbar-button {
 }
 
 body .custom-button {
-  background-image: linear-gradient(to right, #7ed321, #325c06);
+  background-color: #7ed321;
   color: white;
   border: none;
   border-radius: 10px;
@@ -163,4 +163,29 @@ footer .custom-footer-contact p {
   font-weight: 400;
   display: inline-block;
   width: 23%;
+}
+
+.custom-pratice-area-img
+{
+  color: ffffff;
+  width: 64px;
+  height: 64px;
+  border: none;
+}
+
+.custom-pratice-area-card {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  padding: 5px 10px;  
+  font-family: "Roboto", sans-serif;
+}
+
+.custom-pratice-area-card {
+  height: 225px; /* 设置元素的高度为 200 像素 */
+}
+
+@media (min-width: 992px) {
+  .custom-pratice-area-border {
+    border: none;
+  }
 }
